@@ -1,31 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/07/27/introduction/</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
+        <loc>http://nerds.everylastmorsel.com/blog/2013/07/27/introduction/</loc>
+        <lastmod>2013-07-29T05:08:49-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/2013/07/27/problem/</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
+        <loc>http://nerds.everylastmorsel.com/archives/</loc>
+        <lastmod>2013-07-29T05:08:49-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/archives/</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
+        <loc>http://nerds.everylastmorsel.com/blog/archives/</loc>
+        <lastmod>2013-07-29T05:08:49-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
+        <loc>http://nerds.everylastmorsel.com/blog/</loc>
+        <lastmod>2013-07-29T05:08:49-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
+        <loc>http://nerds.everylastmorsel.com/</loc>
+        <lastmod>2013-07-29T05:08:49-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/robots.txt</loc>
-        <lastmod>2013-07-29T01:57:22-04:00</lastmod>
+        <loc>http://nerds.everylastmorsel.com/robots.txt</loc>
+        <lastmod>2013-07-29T03:05:36-04:00</lastmod>
     </url>
 </urlset>

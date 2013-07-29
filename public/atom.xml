@@ -1,42 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-07-29T01:57:30-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Every Last Morsel]]></title>
+  <link href="http://nerds.everylastmorsel.com/atom.xml" rel="self"/>
+  <link href="http://nerds.everylastmorsel.com/"/>
+  <updated>2013-07-29T05:13:14-04:00</updated>
+  <id>http://nerds.everylastmorsel.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Al Johri]]></name>
     
   </author>
 
   
   <entry>
-    <title type="html"><![CDATA[The Problem]]></title>
-    <link href="http://yoursite.com/blog/2013/07/27/problem/"/>
-    <updated>2013-07-27T12:00:00-04:00</updated>
-    <id>http://yoursite.com/blog/2013/07/27/problem</id>
-    <content type="html"><![CDATA[<p>EveryLastMorsel requires every resource (posts, plots, crops) to be viewed in multiple contexts: the context of a user and also independently.</p>
-
-<p>For example, you can view a blog post independent of a user or within the context of a user. Similarly, you can view a plot independent of a user or within the context of user.</p>
-
-<p>Rails conventions by default do not allow for this to be done in a simple an easy fashion.</p>
-
-<p>These needs combined with a need for user vanity URLs created a pretty complicated routes.rb file which over time I&rsquo;ve uncomplicated as much as I could.</p>
-
-<p>&#8220;`</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What is this]]></title>
-    <link href="http://yoursite.com/blog/2013/07/27/introduction/"/>
+    <title type="html"><![CDATA[git commit -am 'Initial Commit']]></title>
+    <link href="http://nerds.everylastmorsel.com/blog/2013/07/27/introduction/"/>
     <updated>2013-07-27T10:00:00-04:00</updated>
-    <id>http://yoursite.com/blog/2013/07/27/introduction</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m creating this blog as a place for me to organize and catalog my thoughts as I create the Every Last Morsel website. I&rsquo;ve been writing paragraphs in Sublime and saving them to my desktop or using virutal stickies for the past few weeks so its been a huge hassle to keep track of things.</p>
+    <id>http://nerds.everylastmorsel.com/blog/2013/07/27/introduction</id>
+    <content type="html"><![CDATA[<p>Welcome to Every Last Morsel&rsquo;s Nerd blog! After filling up an entire desktop of Stickies talking to myself, I decided to start documenting the trials and tribulations in creating ELM. I hope that these posts may to useful in others creating and designing a niche social network.</p>
 
-<p>For anyone not familiar with Every Last Morsel, I&rsquo;ll refer you to the <a href="http://www.everylastmorsel.com">homepage</a> and stick to a technical description of what I&rsquo;m coding.</p>
+<p><img src="http://nerds.everylastmorsel.com/assets/stickies.png"></p>
+
+<p>To learn more about Every Last Morsel, I&rsquo;ll refer you to the <a href="http://www.everylastmorsel.com">homepage</a> or you can check out our <a href="http://www.everylastmorsel.com/blog">blog</a>.</p>
+
+<p>As you may know, Every Last Morsel is currently an open source project. Please check us out on <a href="http://github.com/aljohri/EveryLastMorsel">github.com/aljohri/EveryLastMorsel</a>.</p>
 ]]></content>
   </entry>
   
